@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Allure results and report
+allure-results/
+allure-report/
+
+# Playwright reports
+playwright-report/
+test-results/
+
+# Logs
+*.log
+logs/
+
+# Package lock file (optional)
+package-lock.json
+
+
